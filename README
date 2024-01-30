@@ -1,0 +1,7 @@
+        Linux kernel release 4.x <http://kernel.org/>
+
+本内核树为华为公司开源jkm的hmos2.0内核，本人加入kernelsu开源代码，借鉴coconutat教程和commit。
+
+kernelsu版本11461.
+
+本人非专业人员不保证无bug，请谨慎使用。
